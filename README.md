@@ -19,10 +19,33 @@ Before proceeding, ensure you have the following:
    - Load the downloaded Linux ISO file.
    - Change the partition scheme to **MBR** for UEFI systems.
 
-4. **Set Persistent Partition Size**  
-   - For a 32GB USB flash drive, allocate **12GB** as the persistent partition size.
-   - Persistent storage ensures that downloaded software, browser history, and other changes are saved across reboots.
-   - You may adjust the partition size based on your requirements.
+
+
+---
+---
+---
+
+
+## ⚠️⚠️ 4. ATTENTION! CRUCIAL STEP ⚠️⚠️  
+   
+   
+   
+   
+   
+   
+   #### ✅ For a **32GB USB flash drive, allocate 12GB** as the **persistent partition size**.  
+   #### ✅ Persistent storage ensures that **downloaded software, browser history, and other changes are SAVED ACROSS REBOOTS.**  
+   #### ✅ You may adjust the partition size based on your needs.  
+   🚀🚀🚀🚀
+   ### **THIS STEP IS ABSOLUTELY ESSENTIAL FOR CREATING A FULLY PORTABLE PERSISTENT LINUX OS! WITHOUT IT, THE USB DRIVE WILL FUNCTION ONLY AS A NORMAL BOOTABLE OS AND NOT RETAIN YOUR CHANGES.**
+   
+   
+   
+---
+---
+---
+
+
 
 5. **Create Bootable USB**  
    - Click **Start** and wait for the process to complete.
